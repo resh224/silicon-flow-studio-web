@@ -7,3 +7,5 @@ Public browser-based simulation of agentic custom silicon design, manufacturing 
 The standalone HTML works offline. Extract the web ZIP and open index.html for the multi-file version. This repository contains only the public simulation bundle; private specifications and original source documents are excluded.
 
 Educational synthetic simulation, with no live factory or equipment integration.
+
+Release 1.1.0 adds a five-layer architectural flow diagram, personas at each stage, proposed agent-function factoring and explanatory collaboration walkthroughs. Engine behavior and human/native authority gates are preserved.
