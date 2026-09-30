@@ -1,0 +1,15 @@
+{
+  "application": "Silicon Flow Studio",
+  "version": "1.0.0",
+  "synthetic_only": true,
+  "files": {
+    "Silicon-Flow-Studio.html": {
+      "bytes": 91239,
+      "sha256": "f71be5c226e4f5060ffaa1c3cb6d8b11f75ad54e62e09fc5e77fd8eb3d6a568a"
+    },
+    "Silicon-Flow-Studio-Web.zip": {
+      "bytes": 33349,
+      "sha256": "de80f1397022b1c0aeb0459657b7ab3f6a857600497264e245142c7a242f9758"
+    }
+  }
+}
